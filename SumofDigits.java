@@ -19,11 +19,11 @@ class SumofDigits {
 	// Driver code
 	public static void main(String[] args)
 	{
-		int n = 687;
+		int n = 68781;
 
 		// Function call
 		System.out.println(getSum(n));
 	}
 }
 
-// This code is contributed by Gitanjali
+
