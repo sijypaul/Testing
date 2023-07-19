@@ -16,7 +16,7 @@ int getSum(int n)
 // Driver code
 int main()
 {
-	int n = 687;
+	int n = 68743;
 
 	// Function call
 	printf(" %d ", getSum(n));
